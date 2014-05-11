@@ -1,3 +1,6 @@
+/* params {string}
+ */
+
 function sortNumToArray(num){
 	var i = num, arr = [];
 	if (typeof i !== 'number') {return 'this is not a number';}
